@@ -1,0 +1,15 @@
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 4. Функции продолжение\Band\bin\Debug\net6.0\Band.exe
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 4. Функции продолжение\Band\bin\Debug\net6.0\Band.deps.json
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 4. Функции продолжение\Band\bin\Debug\net6.0\Band.runtimeconfig.json
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 4. Функции продолжение\Band\bin\Debug\net6.0\Band.dll
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 4. Функции продолжение\Band\bin\Debug\net6.0\Band.pdb
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 4. Функции продолжение\Band\obj\Debug\net6.0\Band.csproj.AssemblyReference.cache
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 4. Функции продолжение\Band\obj\Debug\net6.0\Band.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 4. Функции продолжение\Band\obj\Debug\net6.0\Band.AssemblyInfoInputs.cache
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 4. Функции продолжение\Band\obj\Debug\net6.0\Band.AssemblyInfo.cs
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 4. Функции продолжение\Band\obj\Debug\net6.0\Band.csproj.CoreCompileInputs.cache
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 4. Функции продолжение\Band\obj\Debug\net6.0\Band.dll
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 4. Функции продолжение\Band\obj\Debug\net6.0\refint\Band.dll
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 4. Функции продолжение\Band\obj\Debug\net6.0\Band.pdb
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 4. Функции продолжение\Band\obj\Debug\net6.0\Band.genruntimeconfig.cache
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 4. Функции продолжение\Band\obj\Debug\net6.0\ref\Band.dll
